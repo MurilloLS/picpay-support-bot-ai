@@ -41,7 +41,7 @@ Bot especialista nos procedimentos internos do Portal PicPay para Lojistas, com 
 ### 1. Clone e instale
 
 ```bash
-git clone https://github.com/SEU_USUARIO/picpay-negocios-bot.git
+git clone https://github.com/MurilloLS/picpay-support-bot-ai.git
 cd picpay-negocios-bot
 pip install google-genai rich
 ```
